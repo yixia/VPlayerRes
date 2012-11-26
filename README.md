@@ -1,8 +1,9 @@
 VPlayer Res
 ===========
+VPlayerRes is an standalone resource library used in VPlayer. Look for foreign friend help us to translate the strings.
 
 values naming rules
--------------------
+===================
 The language is defined by a two-letter [ISO 639-1][1] language code,
 optionally followed by a two letter [ISO 3166-1-alpha-2][2] region code (preceded by lowercase "r").
 
