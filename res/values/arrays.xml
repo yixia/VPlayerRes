@@ -59,7 +59,7 @@
         <item>Sensor landscape</item>
         <item>Sensor portrait</item>
     </string-array>
-    <string-array name="screen_orientation_values">
+    <string-array name="screen_orientation_values" translatable="false">
         <item>4</item>
         <item>0</item>
         <item>1</item>
@@ -68,7 +68,7 @@
         <item>6</item>
         <item>7</item>
     </string-array>
-    <string-array name="root_folders">
+    <string-array name="root_folders" translatable="false">
         <item>/</item>
         <item>/mnt</item>
         <item>/sdcard</item>
@@ -76,7 +76,7 @@
     </string-array>
     <string-array name="change_themes">
         <item>Holo Light</item>
-        <item>Holo Dark</item> 
+        <item>Holo Dark</item>
     </string-array>
     <string-array name="change_themes_value">
         <item>0</item>
