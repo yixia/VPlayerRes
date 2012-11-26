@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="video_quality_titles">
+        <item>Korkea suorituskyky</item>
+        <item>Normaali</item>
+        <item>Korkea laatu</item>
+    </string-array>
+    <string-array name="aspect_ratio_titles">
+        <item>Tunnista autom.</item>
+        <item>4:3</item>
+        <item>3:2</item>
+        <item>14:9</item>
+        <item>16:10</item>
+        <item>15:9</item>
+        <item>16:9</item>
+        <item>64:27</item>
+    </string-array>
+    <string-array name="buffer_size_titles">
+        <item>0</item>
+        <item>512KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>8MB</item>
+    </string-array>
+    <string-array name="screen_orientation_titles">
+        <item>Anturi</item>
+        <item>Vaakasuunta</item>
+        <item>Pystysuunta</item>
+        <item>Käännetty vaakasuunta</item>
+        <item>Käännetty pystyuunta</item>
+        <item>Anturin vaakasuunta</item>
+        <item>Anturin pystysuunta</item>
+    </string-array>
+    <string-array name="text_style_titles">
+        <item>Normaali</item>
+        <item>Lihavoitu</item>
+        <item>Kursivoitu</item>
+        <item>Lihavoitu kursivoitu</item>
+    </string-array>
+    <string-array name="font_titles">
+        <item>Oletus</item>
+        <item>Sans serif</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string-array name="encoding_titles">
+        <item>Tunnista autom.</item>
+        <item>Big5</item>
+        <item>BOCU–1</item>
+        <item>CESU–8</item>
+        <item>cp864</item>
+        <item>EUC–JP</item>
+        <item>EUC–KR</item>
+        <item>GBK</item>
+        <item>HZ–GB–2312</item>
+        <item>ISO–2022–CN</item>
+        <item>ISO–2022–CN–EXT</item>
+        <item>ISO–2022–JP</item>
+        <item>ISO–2022–KR</item>
+        <item>ISO–8859–1</item>
+        <item>ISO–8859–10</item>
+        <item>ISO–8859–13</item>
+        <item>ISO–8859–14</item>
+        <item>ISO–8859–15</item>
+        <item>ISO–8859–16</item>
+        <item>ISO–8859–2</item>
+        <item>ISO–8859–3</item>
+        <item>ISO–8859–4</item>
+        <item>ISO–8859–5</item>
+        <item>ISO–8859–6</item>
+        <item>ISO–8859–7</item>
+        <item>ISO–8859–8</item>
+        <item>ISO–8859–9</item>
+        <item>KOI8–R</item>
+        <item>macintosh</item>
+        <item>SCSU</item>
+        <item>Shift_JIS</item>
+        <item>TIS–620</item>
+        <item>US–ASCII</item>
+        <item>UTF–16</item>
+        <item>UTF–16BE</item>
+        <item>UTF–16LE</item>
+        <item>UTF–32</item>
+        <item>UTF–32BE</item>
+        <item>UTF–32LE</item>
+        <item>UTF–7</item>
+        <item>UTF–8</item>
+        <item>windows–1250</item>
+        <item>windows–1251</item>
+        <item>windows–1252</item>
+        <item>windows–1253</item>
+        <item>windows–1254</item>
+        <item>windows–1255</item>
+        <item>windows–1256</item>
+        <item>windows–1257</item>
+        <item>windows–1258</item>
+    </string-array>
+
+</resources>
