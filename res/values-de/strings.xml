@@ -1,45 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Thanks to Marc Hillesheim (hawkeyexp@hotmail.de) -->
-    <string name="VideoView_error_title">Video nicht abspielbar</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Entschuldigung: dieses Video ist nicht gültig um es auf diesem Gerät abzuspielen.</string>
-    <string name="VideoView_error_text_unknown">Entschuldigung: dieses Video kann nicht abgespielt werden.</string>
-    <string name="VideoView_error_button">OK</string>
-    <string name="mediacontroller_play_pause">Abspielen/Pause</string>
-    <string name="vitamio_sdk_app_name">VitamioLibrary</string>
-    <string name="vitamio_library_app_name">VitamioLibrary</string>
-    <string name="vitamio_init_decoders">Initialisiere Dekoder…</string>
-    <string name="permission_group_tools_label">Vitamio Tools</string>
-    <string name="permission_group_tools_description">Zugriff auf Vitamiopakete und Resourcen.</string>
-    <string name="permission_receive_messages_label">Nachrichten von Vitamio empfangen</string>
-    <string name="permission_receive_messages_description">Empfange alle Broadcasts des Vitamio-Dienstes.</string>
-    <string name="permission_write_providers_label">Schreibe Vitamio-Providern</string>
-    <string name="permission_write_providers_description">Lösche, aktualisiere oder erstelle neue Einträge von Vitamio-Anbietern.</string>
-    <string name="abs__action_bar_home_description">Navigiere auf Home</string>
-    <string name="abs__action_bar_up_description">Navigiere aufwärts</string>
-    <string name="abs__action_menu_overflow_description">Mehr Optionen</string>
-    <string name="abs__action_mode_done">Fertig</string>
-    <string name="abs__activity_chooser_view_see_all">Alle betrachten...</string>
-    <string name="abs__activity_chooser_view_dialog_title_default">Wähle Aktion</string>
-    <string name="abs__share_action_provider_share_with">Teilen mit...</string>
-    <string name="abs__activitychooserview_choose_application">Wähle eine Anwendung</string>
-    <string name="abs__shareactionprovider_share_with">Teilen mit</string>
-    <string name="abs__shareactionprovider_share_with_application">Teilen mit %s</string>
-    <string name="zi_app_name">ZI</string>
-    <string name="cropimage_waiting">Bitte warten…</string>
-    <string name="cropimage_wallpaper_is_setting">Hintergrundbild einstellen…</string>
-    <string name="cropimage_wallpaper_success">Hintergrundbild geändert!</string>
-    <string name="cropimage_wallpaper_failed">Hintergrundbild nicht geändert!</string>
-    <string name="cropimage_image_saving">Speichere Bild</string>
-    <string name="cropimage_face_multiple">Multi face crop help</string>
-    <string name="cropimage_image_save">Speichern</string>
-    <string name="cropimage_image_discard">Verwerfen</string>
-    <string name="cropimage_image_rotate_left">Nach links drehen</string>
-    <string name="cropimage_image_rotate_right">Nach rechts drehen</string>
-    <string name="cropimage_storage_preparing">Speicherkarte vorbereiten</string>
-    <string name="cropimage_storage_not_available">Keine Speicherkarte</string>
-    <string name="cropimage_storage_no_space">Nicht genug freier Platz</string>
-    <string name="app_name">VPlayer</string>
-    <string name="app_name_url">VPlayer</string>
+<resources >
     <string name="app_description">Der stärkste Videoplayer für Android !</string>
     <string name="notification_ticker">VPlayer</string>
     <string name="notification_title">VPlayer</string>
@@ -80,7 +41,6 @@
     <string name="action_preferences">Einstellungen</string>
     <string name="action_quit">Beenden</string>
     <string name="action_recommended">Heisse Apps</string>
-    <string name="action_edit">Bearbeiten</string>
     <string name="action_edit">Bearbeiten</string>
     <string name="action_plug">Erweiterungen</string>
     <string name="video_cannot_play">"VPlayer kann diese Datei nicht öffnen"</string>
@@ -155,7 +115,7 @@
     <string name="pref_tit_deinterlace">Deinterlace</string>
     <string name="pref_sum_deinterlace">Deinterlace um Linien im Video zu entfernen</string>
     <string name="pref_tit_play_background">Abspielen im Hintergrund</string>
-    <string name="pref_sum_play_background">Im Hintergund aktiv halten</string>
+    <string name="pref_sum_play_background">Im Hintergrund aktiv halten</string>
     <string name="pref_tit_orientation">Bildschirmausrichtung</string>
     <string name="pref_sum_orientation">Standard für die Bildschirmausrichtung festlegen</string>
     <string name="pref_tit_aspect_ratio">Seitenverhältnis</string>
@@ -198,7 +158,6 @@
     <string name="pref_sum_clear_history">Wiedergabeverlauf löschen</string>
     <string name="pref_tit_change_theme">Themes</string>
     <string name="pref_sum_change_theme">Theme ändern</string>
-
     <string name="pref_tit_show_folder">Zeige versteckte Ordner</string>
     <string name="pref_sum_show_folder">Versteckte Ordner wieder anzeigen</string>
     <string name="pref_cat_info">Infomation</string>
@@ -253,10 +212,4 @@
     <string name="search_result">%1$s Ergebnisse gefunden für \"%2$s\"</string>
     <string name="search_no_result">Oh, nichts für \" %s \"</string>
     <string name="app_error_title">Gemeiner Absturz!</string>
-    <string name="vplayer_website">VPlayer Website</string>
-    <string name="vplayer_market">Google Play</string>
-    <string name="vplayer_market_prefix">https://play.google.com/store/apps/details?id=</string>
-    <string name="vplayer_tracker">vplayer</string>
-    <string name="vplayer_about_uri">http://vplayer.net/pages/about-vplayer</string>
-    <string name="vplayer_guides_uri">https://vplayer.net/pages/user-manual</string>
 </resources>
