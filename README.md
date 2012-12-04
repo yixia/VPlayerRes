@@ -15,6 +15,7 @@ Acknowledgement
 ===============
 1. Russian: symbdroid@gmail.com
 2. Slovakia: lumiresku@gmail.com
+3. German: hawkeyexp@googlemail.com
 
 [1]: http://www.loc.gov/standards/iso639-2/php/code_list.php
 [2]: http://www.iso.org/iso/prods-services/iso3166ma/02iso-3166-code-lists/country_names_and_code_elements
