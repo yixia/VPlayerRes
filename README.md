@@ -1,6 +1,6 @@
 VPlayer Res
 ===========
-VPlayerRes is an standalone resource library used in VPlayer. Look for foreign friend help us to translate the strings.
+VPlayerRes is an standalone resource library used in VPlayer for Android. Look for foreign friend help us to translate the strings.
 
 Values naming rules
 ===================
