@@ -9,7 +9,7 @@ optionally followed by a two letter [ISO 3166-1-alpha-2][2] region code (precede
 
 Quantity Strings (Plurals)
 =========================
-[detail][3]
+[Detail][3]
 
 Acknowledgement
 ===============
