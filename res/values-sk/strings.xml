@@ -188,7 +188,7 @@
     <string name="pref_sum_clear_history">Vymaže sa história prehrávania</string>
     <string name="pref_key_change_theme">explorer_change_theme</string>
     <string name="pref_tit_change_theme">Témy</string>
-    <string name="pref_sum_change_theme">Zmeniť tému</string>
+    <string name="pref_sum_change_theme">Zmeňte si tému</string>
     <string name="pref_key_show_folder">explorer_show_hidden_folder</string>
     <string name="pref_tit_show_folder">Zobraziť skryté adresáre</string>
     <string name="pref_sum_show_folder">Zobrazia sa skryté adresáre</string>

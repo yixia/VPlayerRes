@@ -75,8 +75,8 @@
         <item>/storage</item>
     </string-array>
     <string-array name="change_themes">
-        <item>Holo svetlé</item>
-        <item>Holo tmavé</item>
+        <item>Svetlá</item>
+        <item>Tmavá</item>
     </string-array>
     <string-array name="change_themes_value">
         <item>0</item>
