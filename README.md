@@ -13,11 +13,20 @@ Quantity Strings (Plurals)
 
 Acknowledgement
 ===============
-1. Russian: symbdroid@gmail.com
-2. Slovakia: lumiresku@gmail.com
-3. German: hawkeyexp@googlemail.com
+1. ar: Sarmad Mansoor
+2. bg: Ferotakis
+3. de: Marc Hillesheim
+4. es: Luis Gallón
+5. fi: Matti Jormakka
+6. fr: Gilles Gravier
+7. it: Diego Pierotto
+8. ja: July Liu
+9. ko: KYLIN
+10. nl: Elroy T
+11. ru: Наиль Шайхутдинов
+12. sk: Lumir Strauch
+13. tr: Ugur Serttas
 
 [1]: http://www.loc.gov/standards/iso639-2/php/code_list.php
 [2]: http://www.iso.org/iso/prods-services/iso3166ma/02iso-3166-code-lists/country_names_and_code_elements
 [3]: http://developer.android.com/guide/topics/resources/string-resource.html#Plurals
-
