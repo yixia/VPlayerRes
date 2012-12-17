@@ -256,9 +256,5 @@
     <string name="search_no_result">Уупс, ничего нет для \" %s \"</string>
     <string name="vplayer_website">Вебсайт VPlayer</string>
     <string name="vplayer_market">Google Play</string>
-    <string name="vplayer_market_prefix">https://play.google.com/store/apps/details?id=</string>
-    <string name="vplayer_tracker">market</string>
-    <string name="vplayer_about_uri">http://vplayer.net/pages/about-vplayer</string>
-    <string name="vplayer_guides_uri">https://vplayer.net/pages/user-manual</string>
 
 </resources>
