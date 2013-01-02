@@ -10,7 +10,7 @@
         <item>最流畅</item>
         <item>普通</item>
         <item>最高画质</item>
-    </string-array>    
+    </string-array>
     <string-array name="change_themes">
         <item>明亮</item>
         <item>暗黑</item>
@@ -39,6 +39,12 @@
         <item>粗体</item>
         <item>斜体</item>
         <item>粗斜体</item>
+    </string-array>
+    <string-array name="font_titles">
+        <item>默认字体</item>
+        <item>Sans serif</item>
+        <item>Serif</item>
+        <item>Monospace</item>
     </string-array>
     <string-array name="encoding_titles">
         <item>自动检测</item>
