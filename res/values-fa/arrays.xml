@@ -2,17 +2,22 @@
 <resources>
 
     <string-array name="navigation_tabs">
-        <item>Library</item>
-        <item>Streams</item>
-        <item>Files</item>
+        <item>˜ÊÇÈÎÇäå</item>
+        <item>ÌÑ?Çä</item>
+        <item>ÝÇ?á</item>
     </string-array>
     <string-array name="video_quality_titles">
-        <item>High speed</item>
-        <item>Normal</item>
-        <item>High quality</item>
+        <item>ÓÑÚÊ ÈÇáÇ</item>
+        <item>ãÚãæá?</item>
+        <item>˜?Ý?Ê ÈÇáÇ</item>
+    </string-array>
+    <string-array name="video_quality_values">
+        <item>â€“16</item>
+        <item>0</item>
+        <item>16</item>
     </string-array>
     <string-array name="aspect_ratio_titles">
-        <item>Auto detect</item>
+        <item>ÎæÏ˜ÇÑ</item>
         <item>4:3</item>
         <item>3:2</item>
         <item>14:9</item>
@@ -20,6 +25,30 @@
         <item>15:9</item>
         <item>16:9</item>
         <item>64:27</item>
+    </string-array>
+    <string-array name="aspect_ratio_values">
+        <item>0</item>
+        <item>1.33</item>
+        <item>1.50</item>
+        <item>1.56</item>
+        <item>1.60</item>
+        <item>1.66</item>
+        <item>1.78</item>
+        <item>2.37</item>
+    </string-array>
+    <string-array name="buffer_size_titles">
+        <item>0</item>
+        <item>512KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>8MB</item>
+    </string-array>
+    <string-array name="buffer_size_values">
+        <item>0</item>
+        <item>524288</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>8388608</item>
     </string-array>
     <string-array name="screen_orientation_titles">
         <item>Sensor</item>
@@ -30,9 +59,28 @@
         <item>Sensor landscape</item>
         <item>Sensor portrait</item>
     </string-array>
+    <string-array name="screen_orientation_values" translatable="false">
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>8</item>
+        <item>9</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="root_folders" translatable="false">
+        <item>/</item>
+        <item>/mnt</item>
+        <item>/sdcard</item>
+        <item>/storage</item>
+    </string-array>
     <string-array name="change_themes">
         <item>Holo Light</item>
         <item>Holo Dark</item>
+    </string-array>
+    <string-array name="change_themes_value">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="text_style_titles">
         <item>Normal</item>
@@ -40,14 +88,78 @@
         <item>Italic</item>
         <item>Bold italic</item>
     </string-array>
+    <string-array name="text_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="font_titles">
         <item>Default</item>
         <item>Sans serif</item>
         <item>Serif</item>
         <item>Monospace</item>
     </string-array>
+    <string-array name="font_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="encoding_titles">
         <item>Auto Detect</item>
+        <item>Big5</item>
+        <item>BOCUâ€“1</item>
+        <item>CESUâ€“8</item>
+        <item>cp864</item>
+        <item>EUCâ€“JP</item>
+        <item>EUCâ€“KR</item>
+        <item>GBK</item>
+        <item>HZâ€“GBâ€“2312</item>
+        <item>ISOâ€“2022â€“CN</item>
+        <item>ISOâ€“2022â€“CNâ€“EXT</item>
+        <item>ISOâ€“2022â€“JP</item>
+        <item>ISOâ€“2022â€“KR</item>
+        <item>ISOâ€“8859â€“1</item>
+        <item>ISOâ€“8859â€“10</item>
+        <item>ISOâ€“8859â€“13</item>
+        <item>ISOâ€“8859â€“14</item>
+        <item>ISOâ€“8859â€“15</item>
+        <item>ISOâ€“8859â€“16</item>
+        <item>ISOâ€“8859â€“2</item>
+        <item>ISOâ€“8859â€“3</item>
+        <item>ISOâ€“8859â€“4</item>
+        <item>ISOâ€“8859â€“5</item>
+        <item>ISOâ€“8859â€“6</item>
+        <item>ISOâ€“8859â€“7</item>
+        <item>ISOâ€“8859â€“8</item>
+        <item>ISOâ€“8859â€“9</item>
+        <item>KOI8â€“R</item>
+        <item>macintosh</item>
+        <item>SCSU</item>
+        <item>Shift_JIS</item>
+        <item>TISâ€“620</item>
+        <item>USâ€“ASCII</item>
+        <item>UTFâ€“16</item>
+        <item>UTFâ€“16BE</item>
+        <item>UTFâ€“16LE</item>
+        <item>UTFâ€“32</item>
+        <item>UTFâ€“32BE</item>
+        <item>UTFâ€“32LE</item>
+        <item>UTFâ€“7</item>
+        <item>UTFâ€“8</item>
+        <item>windowsâ€“1250</item>
+        <item>windowsâ€“1251</item>
+        <item>windowsâ€“1252</item>
+        <item>windowsâ€“1253</item>
+        <item>windowsâ€“1254</item>
+        <item>windowsâ€“1255</item>
+        <item>windowsâ€“1256</item>
+        <item>windowsâ€“1257</item>
+        <item>windowsâ€“1258</item>
+    </string-array>
+    <string-array name="encoding_values">
+        <item>auto</item>
         <item>Big5</item>
         <item>BOCUâ€“1</item>
         <item>CESUâ€“8</item>
