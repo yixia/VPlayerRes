@@ -2,14 +2,14 @@
 <resources>
 
     <string-array name="navigation_tabs">
-        <item>ò «»Œ«‰Â</item>
-        <item>Ã—?«‰</item>
-        <item>›«?·</item>
+        <item>Library</item>
+        <item>Streams</item>
+        <item>Files</item>
     </string-array>
     <string-array name="video_quality_titles">
-        <item>”—⁄  »«·«</item>
-        <item>„⁄„Ê·?</item>
-        <item>ò?›?  »«·«</item>
+        <item>High speed</item>
+        <item>Normal</item>
+        <item>High quality</item>
     </string-array>
     <string-array name="video_quality_values">
         <item>‚Äì16</item>
@@ -17,7 +17,7 @@
         <item>16</item>
     </string-array>
     <string-array name="aspect_ratio_titles">
-        <item>ŒÊœò«—</item>
+        <item>Auto detect</item>
         <item>4:3</item>
         <item>3:2</item>
         <item>14:9</item>
