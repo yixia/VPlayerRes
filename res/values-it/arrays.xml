@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string-array name="navigation_tabs">
+        <item>Libreria</item>
+        <item>Flussi</item>
+        <item>File</item>
+    </string-array>
     <string-array name="video_quality_titles">
         <item>Velocità elevata</item>
         <item>Normale</item>
         <item>Qualità elevata</item>
+    </string-array>
+    <string-array name="video_quality_values">
+        <item>–16</item>
+        <item>0</item>
+        <item>16</item>
     </string-array>
     <string-array name="aspect_ratio_titles">
         <item>Automatico</item>
@@ -16,12 +26,29 @@
         <item>16:9</item>
         <item>64:27</item>
     </string-array>
+    <string-array name="aspect_ratio_values">
+        <item>0</item>
+        <item>1.33</item>
+        <item>1.50</item>
+        <item>1.56</item>
+        <item>1.60</item>
+        <item>1.66</item>
+        <item>1.78</item>
+        <item>2.37</item>
+    </string-array>
     <string-array name="buffer_size_titles">
         <item>0</item>
         <item>512KB</item>
         <item>1MB</item>
         <item>4MB</item>
         <item>8MB</item>
+    </string-array>
+    <string-array name="buffer_size_values">
+        <item>0</item>
+        <item>524288</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>8388608</item>
     </string-array>
     <string-array name="screen_orientation_titles">
         <item>Sensore</item>
@@ -32,11 +59,40 @@
         <item>Sensore orizzontale</item>
         <item>Sensore verticale</item>
     </string-array>
+    <string-array name="screen_orientation_values" translatable="false">
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>8</item>
+        <item>9</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="root_folders" translatable="false">
+        <item>/</item>
+        <item>/mnt</item>
+        <item>/sdcard</item>
+        <item>/storage</item>
+    </string-array>
+    <string-array name="change_themes">
+        <item>Holo Leggero</item>
+        <item>Holo Scuro</item>
+    </string-array>
+    <string-array name="change_themes_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="text_style_titles">
         <item>Normale</item>
         <item>Grassetto</item>
         <item>Corsivo</item>
         <item>Sottolineato</item>
+    </string-array>
+    <string-array name="text_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="font_titles">
         <item>Predefinito</item>
@@ -44,8 +100,66 @@
         <item>Serif</item>
         <item>Monospace</item>
     </string-array>
+    <string-array name="font_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="encoding_titles">
         <item>Automatica</item>
+        <item>Big5</item>
+        <item>BOCU–1</item>
+        <item>CESU–8</item>
+        <item>cp864</item>
+        <item>EUC–JP</item>
+        <item>EUC–KR</item>
+        <item>GBK</item>
+        <item>HZ–GB–2312</item>
+        <item>ISO–2022–CN</item>
+        <item>ISO–2022–CN–EXT</item>
+        <item>ISO–2022–JP</item>
+        <item>ISO–2022–KR</item>
+        <item>ISO–8859–1</item>
+        <item>ISO–8859–10</item>
+        <item>ISO–8859–13</item>
+        <item>ISO–8859–14</item>
+        <item>ISO–8859–15</item>
+        <item>ISO–8859–16</item>
+        <item>ISO–8859–2</item>
+        <item>ISO–8859–3</item>
+        <item>ISO–8859–4</item>
+        <item>ISO–8859–5</item>
+        <item>ISO–8859–6</item>
+        <item>ISO–8859–7</item>
+        <item>ISO–8859–8</item>
+        <item>ISO–8859–9</item>
+        <item>KOI8–R</item>
+        <item>macintosh</item>
+        <item>SCSU</item>
+        <item>Shift_JIS</item>
+        <item>TIS–620</item>
+        <item>US–ASCII</item>
+        <item>UTF–16</item>
+        <item>UTF–16BE</item>
+        <item>UTF–16LE</item>
+        <item>UTF–32</item>
+        <item>UTF–32BE</item>
+        <item>UTF–32LE</item>
+        <item>UTF–7</item>
+        <item>UTF–8</item>
+        <item>windows–1250</item>
+        <item>windows–1251</item>
+        <item>windows–1252</item>
+        <item>windows–1253</item>
+        <item>windows–1254</item>
+        <item>windows–1255</item>
+        <item>windows–1256</item>
+        <item>windows–1257</item>
+        <item>windows–1258</item>
+    </string-array>
+    <string-array name="encoding_values">
+        <item>auto</item>
         <item>Big5</item>
         <item>BOCU–1</item>
         <item>CESU–8</item>
