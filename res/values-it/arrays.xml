@@ -11,11 +11,6 @@
         <item>Normale</item>
         <item>Qualità elevata</item>
     </string-array>
-    <string-array name="video_quality_values">
-        <item>–16</item>
-        <item>0</item>
-        <item>16</item>
-    </string-array>
     <string-array name="aspect_ratio_titles">
         <item>Automatico</item>
         <item>4:3</item>
