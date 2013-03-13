@@ -64,7 +64,7 @@
     <string name="dialog_title_invalid">Expired version</string>
     <string name="dialog_title_delete">Delete</string>
     <string name="dialog_title_hidden">Hide folder</string>
-    <string name="dialog_text_invalid">VPlayer trial expired, you can buy the full versionfrom market.</string>
+    <string name="dialog_text_invalid">VPlayer trial expired, you can buy the full version from market.</string>
     <string name="dialog_text_confirm">Are you sure ?</string>
     <string name="dialog_text_confirm_delete_folder">All videos and audios in %s will be deleted. However, all the other files and subfolders will be kept ?</string>
     <string name="dialog_text_confirm_hidden">You can show it again from "Preferences > File explorer > Show hidden folder"</string>
