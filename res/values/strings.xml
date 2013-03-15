@@ -202,6 +202,8 @@
     <string name="menu_refresh">Refresh</string>
     <string name="menu_open_url">Open URL</string>
     <string name="menu_edit">Edit</string>
+    <string name="menu_backup">Backup</string>
+    <string name="menu_restore">Restore</string>
     <string name="menu_plugins">Plugins</string>
     <string name="menu_preferences">Preferences</string>
     <string name="menu_help">Help</string>
@@ -214,5 +216,8 @@
     <string name="title_search_query">Search for \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
     <string name="search_result">Got <xliff:g id="num">%1$s</xliff:g> results for \"<xliff:g id="num">%2$s</xliff:g>\"</string>
     <string name="search_no_result">Oops, nothing for \" %s \"</string>
+    <string name="backup_success">Backup successful</string>
+    <string name="restore_success">Restore successful</string>
+    <string name="restore_failed">Backup file not exist</string>
 
 </resources>
