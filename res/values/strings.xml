@@ -219,5 +219,6 @@
     <string name="backup_success">Backup successful</string>
     <string name="restore_success">Restore successful</string>
     <string name="restore_failed">Backup file not exist</string>
-
+    <string name="backup_overwrite">Overwrite</string>
+	<string name="backup_exist">The backup file already exists, are you sure overwrite?</string>
 </resources>
