@@ -211,7 +211,7 @@
     <string name="title_search_query">搜索 \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
     <string name="search_result">搜索出 <xliff:g id="num">%1$s</xliff:g> 条与 \"<xliff:g id="num">%2$s</xliff:g>\" 有关结果</string>
     <string name="search_no_result">没有搜索到与\" %s \"相关的视频文件</string>
-    <string name="backup_success">备份成功</string>
+    <string name="backup_success">备份文件存放在 %s</string>
     <string name="restore_success">恢复成功</string>
     <string name="restore_failed">没有备份文件哦</string>
     <string name="backup_overwrite">覆盖</string>

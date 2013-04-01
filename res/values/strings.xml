@@ -216,7 +216,7 @@
     <string name="title_search_query">Search for \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
     <string name="search_result">Got <xliff:g id="num">%1$s</xliff:g> results for \"<xliff:g id="num">%2$s</xliff:g>\"</string>
     <string name="search_no_result">Oops, nothing for \" %s \"</string>
-    <string name="backup_success">Backup successful</string>
+    <string name="backup_success">Backup successful, saved in %s</string>
     <string name="restore_success">Restore successful</string>
     <string name="restore_failed">Backup file not exist</string>
     <string name="backup_overwrite">Overwrite</string>
