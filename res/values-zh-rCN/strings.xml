@@ -112,6 +112,8 @@
     <string name="pref_sum_hwdecoder">优先选择硬件解码</string>
     <string name="pref_tit_deinterlace">反交错</string>
     <string name="pref_sum_deinterlace">移除画面中的横线</string>
+    <string name="pref_tit_file_cache">文件缓存</string>
+    <string name="pref_sum_file_cache">缓存在线视频到 SD 卡</string>
     <string name="pref_tit_play_background">后台播放</string>
     <string name="pref_sum_play_background">保持播放器后台播放</string>
     <string name="pref_tit_orientation">屏幕旋转</string>

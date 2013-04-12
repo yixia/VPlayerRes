@@ -109,7 +109,7 @@
     <string name="pref_cat_player_sum">Video quality, buffer, etc</string>
     <string name="pref_tit_video_quality">Video quality</string>
     <string name="pref_sum_video_quality">Prefer speed or quality</string>
-    <string name="pref_tit_micro_seek_duration">Seek duration</string>
+    <string name="pref_tit_micro_seek_duration">Seek interval</string>
     <string name="pref_sum_micro_seek_duration">The larger, the more sensitive</string>
     <string name="pref_tit_buf_size">Buffer size</string>
     <string name="pref_sum_buf_size">Buffer size when open video</string>
@@ -117,6 +117,8 @@
     <string name="pref_sum_hwdecoder">Prefer to use hardware decoder first</string>
     <string name="pref_tit_deinterlace">Deinterlace</string>
     <string name="pref_sum_deinterlace">Deinterlace to remove lines from video</string>
+    <string name="pref_tit_file_cache">File cache</string>
+    <string name="pref_sum_file_cache">Cache online video to sdcard</string>
     <string name="pref_tit_play_background">Background playback</string>
     <string name="pref_sum_play_background">Keep alive in background</string>
     <string name="pref_tit_orientation">Screen Orientation</string>
@@ -220,5 +222,6 @@
     <string name="restore_success">Restore successful</string>
     <string name="restore_failed">Backup file not exist</string>
     <string name="backup_overwrite">Overwrite</string>
-	<string name="backup_exist">The backup file already exists, are you sure overwrite?</string>
+    <string name="backup_exist">The backup file already exists, are you sure to overwrite?</string>
+
 </resources>
