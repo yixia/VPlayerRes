@@ -161,6 +161,8 @@
     <string name="pref_sum_hidden_shown">Whether to show files with dot prefix</string>
     <string name="pref_tit_clear_history">Clear history</string>
     <string name="pref_sum_clear_history">Purge playback history</string>
+    <string name="pref_tit_clear_cache">Clear cache</string>
+    <string name="pref_sum_clear_cache">Purge cached media files</string>
     <string name="pref_tit_change_theme">Themes</string>
     <string name="pref_sum_change_theme">Change theme</string>
     <string name="pref_tit_show_folder">Show hidden folders</string>

@@ -156,6 +156,8 @@
     <string name="pref_sum_hidden_shown">是否显示文件名开头是 . 的文件</string>
     <string name="pref_tit_clear_history">清空历史</string>
     <string name="pref_sum_clear_history">完全清空播放历史</string>
+    <string name="pref_tit_clear_cache">清空缓存</string>
+    <string name="pref_sum_clear_cache">删除全部缓存的多媒体文件</string>
     <string name="pref_tit_change_theme">主题</string>
     <string name="pref_sum_change_theme">更改主题</string>
     <string name="pref_tit_show_folder">显示隐藏文件夹</string>
@@ -217,5 +219,6 @@
     <string name="restore_success">恢复成功</string>
     <string name="restore_failed">没有备份文件哦</string>
     <string name="backup_overwrite">覆盖</string>
-	<string name="backup_exist">备份文件已存在，确定要覆盖？</string>
+    <string name="backup_exist">备份文件已存在，确定要覆盖？</string>
+
 </resources>
