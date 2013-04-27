@@ -34,6 +34,7 @@
     <string name="file_explorer_select_all">All</string>
     <string name="file_explorer_exist">File already exists</string>
     <string name="file_explorer_file_icon">File icon</string>
+    <string name="available_space">Available space %s</string>
     <string name="file_meta_delete">Delete</string>
     <string name="file_meta_rename">Rename</string>
     <string name="file_meta_details">Details</string>

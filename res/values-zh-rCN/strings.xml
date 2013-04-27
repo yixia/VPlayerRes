@@ -29,6 +29,7 @@
     <string name="file_explorer_file_exists">%s已经存在</string>
     <string name="file_explorer_select_all">全选</string>
     <string name="file_explorer_exist">文件已存在</string>
+    <string name="available_space">剩余空间 %s</string>
     <string name="file_meta_delete">删除</string>
     <string name="file_meta_rename">重命名</string>
     <string name="file_meta_details">详细信息</string>
