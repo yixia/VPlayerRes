@@ -226,5 +226,6 @@
     <string name="restore_failed">Backup file not exist</string>
     <string name="backup_overwrite">Overwrite</string>
     <string name="backup_exist">The backup file already exists, are you sure to overwrite?</string>
+    <string name="not_compatible">CPU not compatible</string>
 
 </resources>

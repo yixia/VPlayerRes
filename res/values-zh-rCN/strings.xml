@@ -221,5 +221,6 @@
     <string name="restore_failed">没有备份文件哦</string>
     <string name="backup_overwrite">覆盖</string>
     <string name="backup_exist">备份文件已存在，确定要覆盖？</string>
+    <string name="not_compatible">CPU不兼容</string>
 
 </resources>
