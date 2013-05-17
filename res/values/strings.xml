@@ -227,5 +227,6 @@
     <string name="backup_overwrite">Overwrite</string>
     <string name="backup_exist">The backup file already exists, are you sure to overwrite?</string>
     <string name="not_compatible">CPU not compatible</string>
+    <string name="cache_not_available">Cach not available, please check disk or network %d</string>
 
 </resources>
