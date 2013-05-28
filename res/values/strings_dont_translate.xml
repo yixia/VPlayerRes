@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-   <string name="thumbnail_description" translatable="false">thumbnail</string> 
-   <string name="prev_description" translatable="false">prev</string>
-   <string name="next_description" translatable="false">next</string>
-   <string name="playpause_description" translatable="false">playpause</string>
-   <string name="stop_description" translatable="false">stop</string> 
-   <string name="divider_description" translatable="false">divider</string>
+	<string name="thumbnail_description" translatable="false">thumbnail</string>
+	<string name="prev_description" translatable="false">prev</string>
+	<string name="next_description" translatable="false">next</string>
+	<string name="playpause_description" translatable="false">playpause</string>
+	<string name="stop_description" translatable="false">stop</string>
+	<string name="divider_description" translatable="false">divider</string>
+	<string name="default_speed" translatable="false">1.0</string>
 </resources>
