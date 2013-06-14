@@ -28,7 +28,6 @@
     <string name="file_explorer_rename_failed">Dosyanın ismi değiştirilemiyor</string>
     <string name="file_explorer_hidden_failed">Can\'t hide this folder</string>
     <string name="file_explorer_play_all">Tümünü oynat</string>
-    <string name="file_explorer_play_all">Play all</string>
     <string name="file_explorer_play_from_start">Başlangıçtan oynat</string>
     <string name="file_explorer_loop_file">Döngü</string>
     <string name="file_explorer_file_exists">%s zaten mevcut</string>
@@ -50,7 +49,6 @@
     <string name="action_plug">Plugins</string>
     <string name="video_layout_loading">Yükleniyor&#8230;</string>
     <string name="video_layout_buffering_progress">Arabelleğe alınıyor : %.2f%%</string>
-    <string name="video_layout_loading">Loading…</string>
     <string name="closing_file">Çıkılıyor&#8230;</string>
     <string name="video_original">100%</string>
     <string name="video_fit_screen">EKRANA UYDUR</string>
