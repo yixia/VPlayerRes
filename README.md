@@ -27,7 +27,7 @@ Acknowledgement
 10. nl: Elroy T
 11. ru: Наиль Шайхутдинов
 12. sk: Lumir Strauch
-13. tr: Ugur Serttas
+13. tr: Ugur Serttas, Said Tahsin Dane
 14. fa: Mostafa Rouzbahani 
 15. iw: Roeye
 
