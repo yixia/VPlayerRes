@@ -183,6 +183,7 @@
     <string name="tab_video_hw_decoder">硬解码</string>
     <string name="tab_video_deinterlace">反交错</string>
     <string name="tab_video_background">后台播放</string>
+    <string name="tab_video_adaptive">码率自适应</string>
     <string name="tab_video_buffer_size">缓冲大小</string>
     <string name="tab_audio_stereo">立体声</string>
     <string name="tab_audio_left">左</string>

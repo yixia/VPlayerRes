@@ -16,6 +16,14 @@
         <item>0</item>
         <item>16</item>
     </string-array>
+    <string-array name="video_chroma_titles">
+        <item>RGBA8888</item>
+        <item>RGB565</item>
+    </string-array>
+    <string-array name="video_chroma_values" translatable="false">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
     <string-array name="aspect_ratio_titles">
         <item>Auto detect</item>
         <item>4:3</item>

@@ -110,6 +110,8 @@
     <string name="pref_cat_player_sum">Video quality, buffer, etc</string>
     <string name="pref_tit_video_quality">Video quality</string>
     <string name="pref_sum_video_quality">Prefer speed or quality</string>
+    <string name="pref_tit_video_chroma">Video Chroma</string>
+    <string name="pref_sum_video_chroma">Select video chroma 32bit or 16bit</string>
     <string name="pref_tit_micro_seek_duration">Seek interval</string>
     <string name="pref_sum_micro_seek_duration">The larger, the more sensitive</string>
     <string name="pref_tit_buf_size">Buffer size</string>
@@ -188,6 +190,7 @@
     <string name="tab_video_hw_decoder">HW decoder</string>
     <string name="tab_video_deinterlace">Deinterlace</string>
     <string name="tab_video_background">Background playback</string>
+    <string name="tab_video_adaptive">Adaptive stream</string>
     <string name="tab_video_buffer_size">Buffer size</string>
     <string name="tab_audio_stereo">Stereo</string>
     <string name="tab_audio_left">L</string>
