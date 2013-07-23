@@ -105,6 +105,8 @@
     <string name="pref_cat_player_sum">视频质量、缓冲、解码等</string>
     <string name="pref_tit_video_quality">画面质量</string>
     <string name="pref_sum_video_quality">更流畅还是更高的画质</string>
+    <string name="pref_tit_video_chroma">画面色度</string>
+    <string name="pref_sum_video_chroma">32位色还是16位色</string>
     <string name="pref_tit_micro_seek_duration">Seek间隔</string>
     <string name="pref_sum_micro_seek_duration">数值越大，越灵敏</string>
     <string name="pref_tit_buf_size">缓冲大小</string>
