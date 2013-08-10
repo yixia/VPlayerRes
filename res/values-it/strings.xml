@@ -49,8 +49,8 @@
     <string name="action_plug">Plugins</string>
     <string name="video_cannot_play">VPlayer non può aprire questo file</string>
     <string name="video_layout_buffering_progress">Precaricamento: %.2f%%</string>
-    <string name="video_layout_loading">Caricamento...</string>
-    <string name="closing_file">Uscita...</string>
+    <string name="video_layout_loading">Caricamento&#8230;</string>
+    <string name="closing_file">Uscita&#8230;</string>
     <string name="video_original">100%</string>
     <string name="video_fit_screen">ADATTA SCHERMO</string>
     <string name="video_stretch">ALLARGA</string>
