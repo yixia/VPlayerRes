@@ -122,6 +122,8 @@
     <string name="pref_sum_deinterlace">Deinterlace to remove lines from video</string>
     <string name="pref_tit_file_cache">File cache</string>
     <string name="pref_sum_file_cache">Cache online video to sdcard</string>
+    <string name="pref_tit_adaptive_stream">Adaptive streaming</string>
+    <string name="pref_sum_adaptive_stream">Auto adaptive bitrate streaming</string>
     <string name="pref_tit_play_background">Background playback</string>
     <string name="pref_sum_play_background">Keep alive in background</string>
     <string name="pref_tit_orientation">Screen Orientation</string>
