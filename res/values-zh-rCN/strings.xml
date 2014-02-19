@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name_url">VPlayer 无广告、高效播放视频</string>
+    <string name="app_name_url">VPlayer</string>
     <string name="app_description">Android上最强大的视频播放器</string>
     <string name="notification_new_version">发现新版本!</string>
     <string name="guide_title">VPlayer小技巧</string>
