@@ -42,7 +42,7 @@
     <string name="action_recommended">應用推薦</string>
     <string name="action_add_group">增加群組</string>
     <string name="action_edit">編輯</string>
-    <string name="action_plug">附件元件</string>
+    <string name="action_plug">附加元件</string>
     <string name="video_cannot_play">VPlayer 無法播放此檔案</string>
     <string name="video_layout_buffering_progress">緩衝: %.2f%%</string>
     <string name="video_layout_loading">很賣萌的載入中~~~</string>
@@ -210,14 +210,14 @@
     <string name="menu_edit">編輯</string>
     <string name="menu_backup">備份</string>
     <string name="menu_restore">復原</string>
-    <string name="menu_plugins">附件元件</string>
+    <string name="menu_plugins">附加元件</string>
     <string name="menu_gift">禮品</string>
     <string name="menu_preferences">設定</string>
     <string name="menu_help">說明</string>
     <string name="menu_quit">結束</string>
     <string name="plugins_install">安裝</string>
     <string name="plugins_uninstall">解除安裝</string>
-    <string name="plugins_plugins_coming_soon">敬請期待更多附件元件！</string>
+    <string name="plugins_plugins_coming_soon">敬請期待更多附加元件！</string>
     <string name="search_label">VPlayer</string>
     <string name="search_hint">搜尋</string>
     <string name="title_search_query">搜尋 \"&lt;b&gt;<xliff:g id="query">%1$s</xliff:g>&lt;b&gt;\"</string>
